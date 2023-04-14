@@ -1,4 +1,4 @@
-# Write a Python program to find the key of the maximum value in a dictionary. Go to the editor
+# a Python program to find the key of the maximum value in a dictionary. Go to the editor
 given = {'Theodore': 19, 'Roxanne': 22, 'Mathew': 21, 'Betty': 20}
 def max_min_key(dict):
     from operator import itemgetter
