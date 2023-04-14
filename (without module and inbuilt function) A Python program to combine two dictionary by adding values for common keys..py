@@ -21,6 +21,6 @@ def comkeys (dic1, dic2):
 d1 = {'a': 100, 'b': 200, 'c': 300, 'f': 700, 'g': 1000}
 d2 = {'a': 300, 'b': 200, 'd': 400, 'g': 100, 'e': 600}
 result = comkeys (d1,d2)
-print(f"Finsl output is {result}")
+print(f"Final output is {result}")
 
 
