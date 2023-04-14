@@ -5,4 +5,4 @@ def exponent (number):
         dic[i+1] = (i+1)*(i+1)
     return dic
 input_number = int(input("Please enter the number you want to see: "))
-print(f'Final out put is {exponent(input_number)}')
+print(f'Final output is {exponent(input_number)}')
